@@ -32,6 +32,8 @@ which handles the actual subtitle generation using FFmpeg and Whisper.
 
 All subtitle generation logic is based on that tool, adapted to work through a GUI.
 
+<img src="https://private-user-images.githubusercontent.com/141236550/440423380-2a333031-ccff-4184-8417-c7dee26bdf53.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0NTgzMjMsIm5iZiI6MTc0NjQ1ODAyMywicGF0aCI6Ii8xNDEyMzY1NTAvNDQwNDIzMzgwLTJhMzMzMDMxLWNjZmYtNDE4NC04NDE3LWM3ZGVlMjZiZGY1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNVQxNTEzNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZDUyZmI3NDhkNjJkMzQwNWYyZjY5YjFiMjA4ZDY3Mzk1NzMwOTA1MmZkNmVmY2QxOTNjOWU4ZmRjY2E1NWZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zjFgnqhG8WREl1l2r4NoMwA-PugaNcIx0c2hVRXGAH4" alt="Logo" width="200"/>
+
 ---
 
 ## 🛠️ Requirements
@@ -48,6 +50,8 @@ All subtitle generation logic is based on that tool, adapted to work through a G
 2. **Drag and drop** your video file.
 3. Click **"Create Subtitles"**.
 4. Get your `.srt` file in the same directory as your video.
+
+<img src="https://private-user-images.githubusercontent.com/141236550/440423764-dec4594f-70b1-4304-b447-15b3e5a0f444.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0NTgzMjMsIm5iZiI6MTc0NjQ1ODAyMywicGF0aCI6Ii8xNDEyMzY1NTAvNDQwNDIzNzY0LWRlYzQ1OTRmLTcwYjEtNDMwNC1iNDQ3LTE1YjNlNWEwZjQ0NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNVQxNTEzNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YjkwNjNkODcyODIxODAyYmFlYTU5MDY5MDI2MmYyZWY1MzQ2NzNlZGFhY2EwNTQ2ZTRmMmFkNDA1MDU5NWNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.saqLlbNjpbLfsjrFkGxqJrhKCJ47kkQmrEjwidq-J2Q" alt="Logo" width="200"/>
 
 ---
 
